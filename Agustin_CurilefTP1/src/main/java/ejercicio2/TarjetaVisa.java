@@ -8,7 +8,6 @@ public class TarjetaVisa extends Tarjeta {
     }
 
     public double aplicarDescuento(Pedido pedido) {
-        Double descuentoBebida = pedido.calcularBebidas() * this.descuento;
-        return descuentoBebida;
+        return pedido.calcularBebidas() * this.descuento;
     }
 }

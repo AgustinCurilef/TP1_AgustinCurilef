@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 
 public class Inscripcion {
     private static int puntosAsumar;
-    private Participante participante;
+    private final Participante participante;
     private Concurso concurso;
     private LocalDateTime fechaInscripcion;
 

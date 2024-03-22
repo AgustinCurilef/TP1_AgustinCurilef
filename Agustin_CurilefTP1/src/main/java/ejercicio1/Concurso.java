@@ -7,7 +7,7 @@ import java.util.List;
 public class Concurso {
     private final String nombre;
     private List<Inscripcion> inscriptos;
-    private LocalDate fechaLimite;
+    private final LocalDate fechaLimite;
     private LocalDate fechaInicio;
 
     public Concurso(String nombre, LocalDate fechaLimite) {

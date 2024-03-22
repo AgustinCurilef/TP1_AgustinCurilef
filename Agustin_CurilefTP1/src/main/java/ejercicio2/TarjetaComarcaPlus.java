@@ -9,7 +9,6 @@ public class TarjetaComarcaPlus extends Tarjeta {
 
     public double aplicarDescuento(Pedido pedido) {
         double total = pedido.calcularPlatos() + pedido.calcularBebidas();
-        double descuentoTotal = total * this.descuento;
-        return descuentoTotal;
+        return total * this.descuento;
     }
 }

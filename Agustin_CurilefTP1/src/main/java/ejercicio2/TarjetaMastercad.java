@@ -8,7 +8,6 @@ public class TarjetaMastercad extends Tarjeta {
     }
 
     public double aplicarDescuento(Pedido pedido) {
-        Double descuentoPlatos = pedido.calcularPlatos() * this.descuento;
-        return descuentoPlatos;
+        return pedido.calcularPlatos() * this.descuento;
     }
 }
