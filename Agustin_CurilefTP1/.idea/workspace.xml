@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="493b8559-68b2-4fda-8439-d3e8a5d34804" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/Concurso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/Inscripcion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/Participante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Bebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Mesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/PlatoPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Propina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Propina2porciento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Propina3porciento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Propina5porciento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Tarjeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/TarjetaComarcaPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/TarjetaMastercad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/TarjetaVisa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/excepcionesEjercicio2/MesaIncorrectaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ejercicio1/ConcursoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ejercicio2/PedidoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio1/Concurso.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio1/Inscripcion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio1/Participante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/Bebida.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/Mesa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/Pedido.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/PlatoPrincipal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/Propina.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/Propina2porciento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/Propina3porciento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/Propina5porciento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/Tarjeta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/TarjetaComarcaPlus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/TarjetaMastercad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/Ejercicio2/TarjetaVisa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java.java/ExcapcionesEjercicio2/MesaIncorrectaException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio1/Concurso.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio1/Inscripcion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio1/Participante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/Bebida.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/Mesa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/Pedido.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/PlatoPrincipal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/Propina.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/Propina2porciento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/Propina3porciento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/Propina5porciento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/Tarjeta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/TarjetaComarcaPlus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/TarjetaMastercad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/Ejercicio2/TarjetaVisa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/main/Java/ExcapcionesEjercicio2/MesaIncorrectaException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/test/TestEjercicio1/ConcursoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1_AgustinCurilef/src/test/TestEjercicio2/PedidoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP0-AgustinCurilef" beforeDir="false" afterPath="$PROJECT_DIR$/../TP0-AgustinCurilef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP0_AgustinCurilef" beforeDir="false" afterPath="$PROJECT_DIR$/../TP0_AgustinCurilef" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2dyDoHkiFVTxdflRhDfinrhJLzR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ConcursoTest.executor": "Coverage",
+    "JUnit.PedidoTest.TestDescuentoComarcaPlus.executor": "Run",
+    "JUnit.PedidoTest.TestDescuentoMastercard.executor": "Run",
+    "JUnit.PedidoTest.TestDescuentoViedma.executor": "Run",
+    "JUnit.PedidoTest.TestTomarPedido4.executor": "Run",
+    "JUnit.PedidoTest.executor": "Coverage",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/MAK/Documents/Orientacion a Objetos 2(2024)/IntelliJ-gitHub/Agustin_CurilefTP1/src/main/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Ejercicio1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MAK\Documents\Orientacion a Objetos 2(2024)\IntelliJ-gitHub\Agustin_CurilefTP1\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PedidoTest">
+    <configuration name="PedidoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agustin_CurilefTP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestEjercicios2" />
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.PedidoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PedidoTest.TestDescuentoComarcaPlus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agustin_CurilefTP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ejercicio2" />
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.PedidoTest" />
+      <option name="METHOD_NAME" value="TestDescuentoComarcaPlus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PedidoTest.TestDescuentoMastercard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agustin_CurilefTP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ejercicio2" />
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.PedidoTest" />
+      <option name="METHOD_NAME" value="TestDescuentoMastercard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PedidoTest.TestDescuentoViedma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agustin_CurilefTP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ejercicio2" />
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.PedidoTest" />
+      <option name="METHOD_NAME" value="TestDescuentoViedma" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PedidoTest.TestTomarPedido4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agustin_CurilefTP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ejercicio2" />
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.PedidoTest" />
+      <option name="METHOD_NAME" value="TestTomarPedido4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PedidoTest" />
+        <item itemvalue="JUnit.PedidoTest.TestDescuentoMastercard" />
+        <item itemvalue="JUnit.PedidoTest.TestTomarPedido4" />
+        <item itemvalue="JUnit.PedidoTest.TestDescuentoComarcaPlus" />
+        <item itemvalue="JUnit.PedidoTest.TestDescuentoViedma" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="493b8559-68b2-4fda-8439-d3e8a5d34804" name="Changes" comment="" />
+      <created>1710971601577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710971601577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Agustin_CurilefTP1$PedidoTest_TestTomarPedido4.ic" NAME="PedidoTest.TestTomarPedido4 Coverage Results" MODIFIED="1711117922733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ejercicio2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Agustin_CurilefTP1$PedidoTest.ic" NAME="PedidoTest Coverage Results" MODIFIED="1711122359183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ejercicio2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Agustin_CurilefTP1$ConcursoTest.ic" NAME="ConcursoTest Coverage Results" MODIFIED="1710974086299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ejercicio1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
