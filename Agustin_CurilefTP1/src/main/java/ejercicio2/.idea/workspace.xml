@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87055e01-dc9e-4f8e-a7bc-365a68a0e5ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/Concurso.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/CorreoElectronico$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/CorreoElectronico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/Inscripcion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/Notificacion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/Participante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/ProveedorDeFechas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/Registro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio1/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/Bebida.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/Mesa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/Pedido.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/PlatoPrincipal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/Propina.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/Propina2porciento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/Propina3porciento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/Propina5porciento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/Tarjeta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/TarjetaComarcaPlus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/TarjetaMastercad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/TarjetaVisa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/ejercicio2/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/excepcionesEjercicio2/MesaIncorrectaException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/persistenciaEjercicio1/EnBaseDatosRegistroInscripcion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/persistenciaEjercicio1/EnBaseDatosRegistroRestaurante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java0/persistenciaEjercicio1/EnDiscoRegistro.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2emkiR9xt1eg5r98GRULRgvI2eT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "tp__actualizado",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/MAK/Documents/Orientacion a Objetos 2(2024)/Todos los TP/Tp1POO2/Agustin_CurilefTP1/src/main/java/ejercicio2"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87055e01-dc9e-4f8e-a7bc-365a68a0e5ee" name="Changes" comment="" />
+      <created>1712517267451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712517267451</updated>
+    </task>
+    <servers />
+  </component>
+</project>
